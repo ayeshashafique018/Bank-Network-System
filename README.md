@@ -86,21 +86,5 @@ This simulation effectively demonstrates a secure, scalable banking network with
 
 ---
 
-## 📚 References
-
-- Smith, J., et al. (2019). *Network Reliability in Banking Systems.*  
-- Johnson, M., & Lee, R. (2020). *IoT Integration in Banking Systems.*  
-- Brown, T., & Garcia, S. (2018). *Security Measures for Banking Networks.*  
-- Chen, Y., et al. (2021). *Centralized Data Management in Distributed Banking Systems.*  
-
----
-
-## 📬 Contact
-
-For questions or contributions, reach out:  
-**Email:** your.email@example.com  
-**GitHub:** [yourusername](https://github.com/yourusername)  
-
----
 
 *Thank you for checking out this project!*
